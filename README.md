@@ -65,9 +65,13 @@ Experiência em monitoramento end-to-end, automação operacional e gestão de a
 ## 🛠️ Tecnologias
 
 **Observability:** Grafana · Prometheus · ELK Stack · Datadog · New Relic
+
 **Automação & IaC:** Ansible · Terraform · Python
+
 **Containers & Infra:** Kubernetes · OpenShift · RHEL · Linux · VMware · Nutanix
-**CI/CD & Incident Management:** GitLab CI/CD · GitHub Actions · PagerDuty · Opsgenie
+
+**CI/CD & Incident Management:** GitLab CI/CD · GitHub Actions
+
 **Cloud:** AWS *(em evolução)*
 
 ---
