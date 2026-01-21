@@ -64,7 +64,7 @@ Experiência em monitoramento end-to-end, automação operacional e gestão de a
 
 ## 🛠️ Tecnologias
 
-**Observability:** Grafana · Prometheus · ELK Stack · Datadog · New Relic
+**Observability:** Grafana · Prometheus · ELK Stack · Datadog 
 
 **Automação & IaC:** Ansible · Terraform · Python
 
