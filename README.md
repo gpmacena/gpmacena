@@ -46,8 +46,8 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Automação com atuação em **Infraestrutura como Código (IaC)** e automação de ambientes **híbridos e conteinerizados**.
-Experiência prática em **ambientes enterprise e críticos**, com foco em **automação, padronização, escalabilidade e confiabilidade**.
+Engenheiro DevOps / SRE com forte atuação em Observabilidade, Confiabilidade e Infraestrutura como Código (IaC), trabalhando na automação e operação de ambientes híbridos, conteinerizados e enterprise.
+Experiência em monitoramento end-to-end, automação operacional e gestão de ambientes críticos, com foco em confiabilidade, escalabilidade, performance e melhoria contínua.
 
 ---
 
@@ -76,7 +76,7 @@ Experiência prática em **ambientes enterprise e críticos**, com foco em **aut
 
 ### **Observability / DevOps Engineer**
 
-**BW Soluções** — *(Contrato PJ)*
+**BW Soluções** — 
 🗓 **2026 – Atual**
 
 * Implementação de **soluções de observabilidade end‑to‑end** para sistemas, aplicações e infraestrutura
@@ -89,7 +89,6 @@ Experiência prática em **ambientes enterprise e críticos**, com foco em **aut
 * Colaboração com times **DevOps, SRE e Desenvolvimento**
 
 ### **SManager → Red Hat (Alocado)** — Automation Engineer
-
 🗓 **11/11/2024 – 23/01/2026**
 
 * Automação de infraestrutura com **Ansible** (VMware e Nutanix)
@@ -99,7 +98,6 @@ Experiência prática em **ambientes enterprise e críticos**, com foco em **aut
 * Monitoramento e observabilidade com **Dynatrace**
 
 ### **Exército Brasileiro** — Datacenter Operator
-
 🗓 **2018 – 2024**
 
 * Gestão de ambientes **VMware** para +50 organizações
